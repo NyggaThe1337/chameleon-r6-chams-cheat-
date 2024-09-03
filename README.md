@@ -17,7 +17,7 @@ There's a few dll's with different colours the original source for the dll is av
 5. Keep hitting OK as needed.
 
 
-### **Pricing:**
+### **Their retarded pricing vs our epic pricing of $0 forever:**
 
 - **1 Day**: $7 -> **FREE**
 - **1 Week**: $11 -> **FREE**
